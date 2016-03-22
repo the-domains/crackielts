@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5564832612567161
+  lightness: 0.8547024594006943
+  rhythmicContrast: 0.27527985219992435
+  saturation: 0.8671492050932369
+cta: {}
+layout_spectrum: 0.9234580990362997
+name: crackielts
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.3605035998267996
